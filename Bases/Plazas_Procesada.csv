@@ -1,0 +1,304 @@
+﻿Fecha Origen,Producto,Origen,Seguimiento,Cita efetiva,PDM,SDC,Estatus,Seguimiento_Original,Cita efetiva_Original,PDM_Original,SDC_Original,Facturado_Confirmado,Estatus_Contactado,Estatus_Facturado,Estatus_False,Estatus_Finalizado,Estatus_<NA>
+05/06/2025 18:30,AION,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/06/2025 18:00,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/06/2025 13:50,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/06/2025 13:47,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/06/2025 13:43,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/06/2025 13:42,EMKOO,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/06/2025 13:41,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/06/2025 11:47,EMZOOM,PLAZA ANGELOPOLIS,1,1,1,1,Contactado,True,True,True,True,0,1,0,0,0,0
+05/05/2025 18:51,GS8,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/05/2025 18:46,GS8,PLAZA ANGELOPOLIS,1,1,1,1,Facturado,True,True,True,True,1,0,1,0,0,0
+05/05/2025 17:37,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/05/2025 17:33,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/05/2025 17:21,EMZOOM,Gran Patio Tlaxcala,1,0,,0,Finalizado,True,False,,False,0,0,0,0,1,0
+05/05/2025 16:32,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/05/2025 16:30,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/05/2025 16:22,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/04/2025 15:49,GS4,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/04/2025 15:47,GS4,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/04/2025 15:46,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/04/2025 14:03,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/04/2025 14:02,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/04/2025 12:08,GS8,Gran Patio Tlaxcala,1,1,1,1,Facturado,True,True,True,True,1,0,1,0,0,0
+05/03/2025 14:23,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/03/2025 14:21,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/03/2025 13:10,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/02/2025 19:19,EMKOO,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/02/2025 18:24,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/02/2025 18:20,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/02/2025 18:19,GN8,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/02/2025 18:07,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/02/2025 18:06,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/02/2025 18:05,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/02/2025 18:04,EMZOOM,PLAZA ANGELOPOLIS,1,1,1,1,Facturado,True,True,True,True,1,0,1,0,0,0
+05/02/2025 12:51,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/01/2025 19:21,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/01/2025 18:40,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/01/2025 17:14,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/01/2025 17:13,EMZOOM,Gran Patio Tlaxcala,1,1,0,0,Contactado,True,True,False,False,0,1,0,0,0,0
+05/01/2025 13:51,GS4,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/01/2025 12:53,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/07/2025 19:21,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/07/2025 18:06,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/07/2025 17:44,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/07/2025 17:43,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/07/2025 17:42,EMZOOM,Gran Patio Tlaxcala,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/07/2025 15:48,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/07/2025 15:46,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/07/2025 13:54,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/08/2025 18:34,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/08/2025 18:34,EMZOOM,Gran Patio Tlaxcala,1,1,0,0,Finalizado,True,True,False,False,0,0,0,0,1,0
+05/08/2025 18:33,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/08/2025 17:32,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/08/2025 17:32,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/08/2025 17:11,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/08/2025 17:06,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/08/2025 16:56,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/08/2025 13:56,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/08/2025 12:26,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/14/2025 18:55,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/14/2025 18:54,EMKOO,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/14/2025 18:25,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/14/2025 18:24,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/14/2025 18:18,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/14/2025 17:58,EMKOO,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+5/14/2025 16:49,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/14/2025 16:46,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/14/2025 16:35,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/13/2025 18:41,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/13/2025 18:40,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/13/2025 18:04,EMZOOM,Gran Patio Tlaxcala,1,1,1,1,Facturado,True,True,True,True,1,0,1,0,0,0
+5/13/2025 15:19,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/13/2025 15:18,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/13/2025 15:17,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/13/2025 15:17,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/13/2025 15:16,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/12/2025 19:50,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/12/2025 18:18,EMZOOM,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/12/2025 18:16,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/12/2025 17:58,GS4,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/12/2025 17:57,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/12/2025 17:56,EMZOOM,Gran Patio Tlaxcala,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/12/2025 15:15,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 23:38,EMZOOM,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/11/2025 23:37,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 23:30,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 20:54,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 19:38,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 19:26,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 18:53,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 18:51,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 18:15,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/11/2025 18:14,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/11/2025 14:04,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+05/11/2025 13:59,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 13:36,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 13:33,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 13:27,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/11/2025 12:46,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+05/10/2025 18:14,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/10/2025 17:22,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/10/2025 16:30,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/10/2025 14:38,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/10/2025 10:48,EMZOOM,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/10/2025 10:26,EMZOOM,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/09/2025 18:23,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+05/09/2025 18:06,GN8,Gran Patio Tlaxcala,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+05/09/2025 16:32,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+05/09/2025 12:32,EMKOO,PLAZA ANGELOPOLIS,1,1,0,1,Finalizado,True,True,False,True,0,0,0,0,1,0
+,GS8,PLAZA ANGELOPOLIS,1,1,1,0,Facturado,True,True,True,False,1,0,1,0,0,0
+5/18/2025 19:59,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/18/2025 19:58,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/18/2025 19:57,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/18/2025 19:56,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/18/2025 19:55,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/18/2025 19:54,EMZOOM,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+5/18/2025 19:43,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/18/2025 19:42,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/18/2025 14:18,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/18/2025 12:57,EMKOO,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/18/2025 12:26,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/17/2025 22:58,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 22:56,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 22:55,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 22:54,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 21:48,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 21:46,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 21:44,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 20:54,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/17/2025 20:53,GN8,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/17/2025 17:13,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 15:40,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 14:51,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/17/2025 14:19,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/17/2025 14:18,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/17/2025 13:42,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/16/2025 19:32,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/16/2025 19:10,EMZOOM,Gran Patio Tlaxcala,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+5/16/2025 19:08,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/16/2025 19:07,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/16/2025 18:52,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/16/2025 18:51,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/16/2025 18:26,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/16/2025 15:20,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/15/2025 22:59,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,False,True,False,False,False,,0,0,1,0,0
+5/15/2025 18:17,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/15/2025 18:16,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/15/2025 16:04,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/15/2025 15:49,GS8,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/15/2025 15:45,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/15/2025 13:13,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/15/2025 13:09,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/15/2025 12:59,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/15/2025 12:46,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+,EMZOOM,Gran Patio Tlaxcala,1,1,0,1,Facturado,True,True,False,True,1,0,1,0,0,0
+5/20/2025 19:09,AION,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/20/2025 19:06,AION,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/20/2025 18:38,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+5/20/2025 16:43,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/20/2025 16:41,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/20/2025 16:11,AION,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/20/2025 15:54,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/20/2025 14:14,AION,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 18:50,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 18:29,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/19/2025 18:28,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+5/19/2025 18:23,EMZOOM,Gran Patio Tlaxcala,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+5/19/2025 18:14,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 16:02,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 13:48,EMKOO,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:39,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:37,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:35,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:33,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:30,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:29,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:27,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:24,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/19/2025 12:20,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/22/2025 18:56,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/22/2025 18:54,AION,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/22/2025 18:53,AION,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/22/2025 18:27,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/22/2025 18:26,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/22/2025 17:59,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/22/2025 13:59,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 23:58,AION,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 19:06,EMKOO,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 19:04,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 18:26,AION,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 17:43,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 17:43,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 17:42,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 16:21,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/21/2025 15:03,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 09:31,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 08:19,GS8,PLAZA ANGELOPOLIS,1,1,1,1,Contactado,True,True,True,True,0,1,0,0,0,0
+06/08/2025 17:07,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/08/2025 17:04,GS8,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/08/2025 16:48,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/08/2025 16:46,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/08/2025 16:42,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/08/2025 16:41,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/08/2025 16:21,GS8,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/08/2025 16:19,GS8,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/08/2025 16:18,GS8,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/08/2025 16:16,GS8,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/08/2025 16:14,GS8,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/07/2025 19:03,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/07/2025 18:59,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/07/2025 17:43,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/07/2025 17:18,EMKOO,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/07/2025 15:16,GS8,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/07/2025 15:15,GS8,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/07/2025 13:20,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/07/2025 12:47,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/07/2025 12:46,GS8,PLAZA ANGELOPOLIS,1,0,0,0,False,True,False,False,False,,0,0,1,0,0
+06/06/2025 16:01,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/06/2025 13:41,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/06/2025 13:40,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/06/2025 13:38,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/06/2025 13:28,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/06/2025 11:07,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/06/2025 10:36,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/06/2025 10:35,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/06/2025 10:34,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/06/2025 10:18,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/05/2025 20:42,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/05/2025 20:41,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/05/2025 18:53,GS8,PLAZA ANGELOPOLIS,1,0,0,0,False,True,False,False,False,,0,0,1,0,0
+06/05/2025 18:15,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/05/2025 18:14,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/05/2025 18:13,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/05/2025 17:51,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/05/2025 17:21,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/05/2025 17:19,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/05/2025 17:17,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/05/2025 17:15,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/05/2025 17:12,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/05/2025 11:50,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/05/2025 11:41,EMKOO,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/04/2025 18:51,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/04/2025 18:15,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/04/2025 18:11,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/04/2025 17:38,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/04/2025 17:37,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/04/2025 17:35,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/04/2025 17:33,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/04/2025 13:52,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/04/2025 13:47,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/04/2025 12:27,EMZOOM,Gran Patio Tlaxcala,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/03/2025 19:19,GS8,PLAZA ANGELOPOLIS,1,0,0,0,False,True,False,False,False,,0,0,1,0,0
+06/03/2025 19:15,GS8,PLAZA ANGELOPOLIS,1,0,0,0,False,True,False,False,False,,0,0,1,0,0
+06/03/2025 16:36,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/03/2025 16:07,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/03/2025 15:42,EMKOO,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/03/2025 15:10,EMKOO,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/03/2025 15:06,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/02/2025 19:55,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/02/2025 19:35,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/02/2025 18:31,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/02/2025 18:13,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/02/2025 17:58,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/02/2025 15:08,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/02/2025 13:45,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/02/2025 13:17,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/02/2025 12:05,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/02/2025 11:55,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/02/2025 11:51,GS8,PLAZA ANGELOPOLIS,1,0,0,1,Finalizado,True,False,False,True,0,0,0,0,1,0
+06/02/2025 11:49,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/02/2025 10:35,EMZOOM,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/02/2025 10:28,GS8,PLAZA ANGELOPOLIS,1,1,1,0,Contactado,True,True,True,False,0,1,0,0,0,0
+06/02/2025 10:22,GN8,PLAZA ANGELOPOLIS,1,0,0,0,Finalizado,True,False,False,False,0,0,0,0,1,0
+06/02/2025 10:21,GS8,PLAZA ANGELOPOLIS,1,0,0,0,Contactado,True,False,False,False,0,1,0,0,0,0
+06/02/2025 10:06,GS8,PLAZA ANGELOPOLIS,1,0,0,0,False,True,False,False,False,,0,0,1,0,0
+06/02/2025 10:04,GS8,PLAZA ANGELOPOLIS,1,0,0,0,False,True,False,False,False,,0,0,1,0,0
+06/01/2025 19:36,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/01/2025 19:36,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/02/2025 10:24,Emzoom,PLAZA ANGELOPOLIS,1,1,1,,Contactado,True,True,True,,0,1,0,0,0,0
+06/10/2025 19:46,EMZOOM,PLAZA ANGELOPOLIS,1,,,,Contactado,True,,,,0,1,0,0,0,0
+06/10/2025 19:25,GS8,PLAZA ANGELOPOLIS,1,,,,Contactado,True,,,,0,1,0,0,0,0
+06/10/2025 18:57,GS8,GALERIAS TLAXCALA,,,,,,,,,,,0,0,0,0,1
+06/10/2025 18:53,GS8,Gran Patio Tlaxcala,,,,,,,,,,,0,0,0,0,1
+06/10/2025 18:04,GS8,PLAZA ANGELOPOLIS,,,,,,,,,,,0,0,0,0,1
+06/10/2025 17:39,EMKOO,PLAZA ANGELOPOLIS,,,,,,,,,,,0,0,0,0,1
+06/10/2025 17:37,GS8,PLAZA ANGELOPOLIS,,,,,,,,,,,0,0,0,0,1
+06/10/2025 17:17,EMZOOM,PLAZA ANGELOPOLIS,,,,,,,,,,,0,0,0,0,1
+06/10/2025 17:14,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/10/2025 17:09,EMZOOM,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/10/2025 16:48,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/10/2025 15:08,GN8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/10/2025 10:33,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 19:34,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 19:09,EMKOO,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 18:53,EMKOO,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 18:52,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 17:31,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 17:29,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 17:26,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 15:30,GS8,PLAZA ANGELOPOLIS,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 13:15,EMZOOM,GALERIAS TLAXCALA,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 13:14,EMZOOM,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+06/09/2025 12:50,GS8,Gran Patio Tlaxcala,0,0,0,0,False,False,False,False,False,,0,0,1,0,0
+5/24/2025 12:19,EMZOOM,PLAZA ANGELOPOLIS,1,,,,Contactado,True,,,,0,1,0,0,0,0
